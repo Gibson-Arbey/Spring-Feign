@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: springFeign
+
+  cloud:
+    config:
+      enabled: false
+    import-check:
+      enabled: false
